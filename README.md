@@ -9,7 +9,7 @@ repos](https://github.com/GoogleCloudPlatform) for sample applications and
 scaffolding for other python frameworks and use cases.
 
 Note that this project no longer uses the the SDK-provided Django 1.5 library but
-uses `pip -t` to vendor Django 1.8 into the lib/ folder.
+uses `pip -t` to vendor the latest Django into the lib/ folder.
 
 This project is based on the introductory [Django Tutorial](https://docs.djangoproject.com/en/1.8/intro/tutorial01/)
 polls applications.
