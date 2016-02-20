@@ -16,6 +16,7 @@
 # See https://cloud.google.com/appengine/docs/managed-vms/config for details.
 
 # [START django_app]
+application: trydjango-1203
 runtime: python27
 api_version: 1
 threadsafe: yes
@@ -33,5 +34,6 @@ handlers:
 # as part of the AppEngine SDk
 libraries:
 - name: MySQLdb
-  version: 1.2.4b4
+  version: "latest"
+
 # [END django_app]

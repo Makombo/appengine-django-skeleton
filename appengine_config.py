@@ -16,3 +16,12 @@
 from google.appengine.ext import vendor
 vendor.add('lib')
 # [END vendor]
+
+# [START CMS Make work on dev windows machine]
+import os
+if os.environ.get('SERVER_SOFTWARE','').startswith('Development') and os.name == 'nt':
+    os.name = None
+	
+# [END CMS Make work on dev windows machine]
+
+#webapp_django_version = '1.9'	#cms

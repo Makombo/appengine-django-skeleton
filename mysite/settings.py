@@ -51,7 +51,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'polls',
+    'polls',	#cms
 )
 
 MIDDLEWARE_CLASSES = (
@@ -92,25 +92,35 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 
 # [START db_setup]
 import os
-if os.getenv('SERVER_SOFTWARE', '').startswith('Google App Engine'):
+env = os.getenv('SERVER_SOFTWARE')
+if (env and env.startswith('Google App Engine/')):
     # Running on production App Engine, so use a Google Cloud SQL database.
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.mysql',
-            #'HOST': '/cloudsql/<your-cloud-sql-instance>',
-            'HOST': '/cloudsql/testdbserve',
-            'NAME': 'djangotest',
+            'HOST': '/cloudsql/trydjango-1203:testdbserve',
+            'NAME': 'mydatabasename',
             'USER': 'root',
         }
     }
 else:
-	DATABASES = {
-		'default': {
-			'ENGINE': 'django.db.backends.sqlite3',
-			'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-		}
-	}
-
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.mysql',
+            'NAME': 'mydatabasename',
+            'USER': 'myusername',
+            'PASSWORD': 'sakala12',
+            'HOST': '173.194.230.197',
+            'PORT': '3306',
+        }
+    }
+# else:
+	# DATABASES = {
+		# 'default': {
+			# 'ENGINE': 'django.db.backends.sqlite3',
+			# 'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+		# }
+	# }
 # [END db_setup]
 
 # Internationalization
