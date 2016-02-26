@@ -1,7 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a5e4742-9019-4d40-9b84-dfe022b616e6" name="Default" comment="" />
+    <list default="true" id="4a5e4742-9019-4d40-9b84-dfe022b616e6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Django-1.9.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Django-1.9.dist-info/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Django-1.9.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Django-1.9.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Django-1.9.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Django-1.9.dist-info/entry_points.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Django-1.9.dist-info/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Django-1.9.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/django/conf/app_template/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/django/conf/app_template/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/django/conf/app_template/apps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/django/conf/app_template/migrations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/django/conf/app_template/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/django/conf/app_template/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/django/conf/app_template/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/django/conf/project_template/manage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/django/conf/project_template/project_name/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/django/conf/project_template/project_name/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/django/conf/project_template/project_name/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/django/conf/project_template/project_name/wsgi.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/cs/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/conf/locale/cs/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/da/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/conf/locale/da/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/eo/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/conf/locale/eo/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/fi/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/conf/locale/fi/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/hr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/conf/locale/hr/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/id/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/conf/locale/id/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/kk/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/conf/locale/kk/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/ko/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/conf/locale/ko/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/pl/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/conf/locale/pl/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/uk/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/conf/locale/uk/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/locale/da/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/locale/da/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/locale/fi/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/locale/fi/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/locale/hr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/locale/hr/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/locale/hu/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/locale/hu/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/locale/id/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/locale/id/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/locale/ko/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/locale/ko/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/locale/uk/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/locale/uk/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admindocs/locale/da/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/admindocs/locale/da/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admindocs/locale/hr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/admindocs/locale/hr/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/auth/locale/da/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/auth/locale/da/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/auth/locale/fa/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/auth/locale/fa/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/auth/locale/hr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/auth/locale/hr/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/auth/locale/hu/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/auth/locale/hu/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/auth/locale/id/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/auth/locale/id/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/auth/locale/ko/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/auth/locale/ko/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/auth/locale/uk/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/auth/locale/uk/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/contenttypes/locale/hr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/contenttypes/locale/hr/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/flatpages/locale/da/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/flatpages/locale/da/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/flatpages/locale/hr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/flatpages/locale/hr/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/flatpages/locale/id/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/flatpages/locale/id/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/flatpages/locale/ko/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/flatpages/locale/ko/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/gis/locale/da/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/gis/locale/da/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/humanize/locale/es_MX/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/humanize/locale/es_MX/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/postgres/locale/da/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/postgres/locale/da/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/postgres/locale/id/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/postgres/locale/id/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/postgres/locale/ko/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/postgres/locale/ko/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/da/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/da/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/es_MX/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/es_MX/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/hr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/hr/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/id/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/id/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/ko/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/ko/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/uk/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/uk/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/sites/locale/hr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/lib/django/contrib/sites/locale/hr/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/__init__.py" afterPath="$PROJECT_DIR$/lib/django/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/__init__.py" afterPath="$PROJECT_DIR$/lib/django/conf/locale/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/cs/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/conf/locale/cs/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/da/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/conf/locale/da/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/eo/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/conf/locale/eo/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/fi/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/conf/locale/fi/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/hr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/conf/locale/hr/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/id/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/conf/locale/id/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/kk/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/conf/locale/kk/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/ko/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/conf/locale/ko/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/pl/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/conf/locale/pl/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/conf/locale/uk/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/conf/locale/uk/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/actions.py" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/actions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/helpers.py" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/helpers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/locale/da/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/locale/da/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/locale/fi/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/locale/fi/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/locale/hr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/locale/hr/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/locale/hu/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/locale/hu/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/locale/id/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/locale/id/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/locale/ko/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/locale/ko/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/locale/uk/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/locale/uk/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/options.py" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/options.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/sites.py" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/sites.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/static/admin/js/admin/DateTimeShortcuts.js" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/static/admin/js/admin/DateTimeShortcuts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/static/admin/js/admin/RelatedObjectLookups.js" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/static/admin/js/admin/RelatedObjectLookups.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/static/admin/js/core.js" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/static/admin/js/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/templates/admin/change_form.html" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/templates/admin/change_form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admin/utils.py" afterPath="$PROJECT_DIR$/lib/django/contrib/admin/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admindocs/locale/da/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/admindocs/locale/da/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/admindocs/locale/hr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/admindocs/locale/hr/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/auth/context_processors.py" afterPath="$PROJECT_DIR$/lib/django/contrib/auth/context_processors.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/auth/hashers.py" afterPath="$PROJECT_DIR$/lib/django/contrib/auth/hashers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/auth/locale/da/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/auth/locale/da/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/auth/locale/fa/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/auth/locale/fa/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/auth/locale/hr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/auth/locale/hr/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/auth/locale/hu/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/auth/locale/hu/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/auth/locale/id/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/auth/locale/id/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/auth/locale/ko/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/auth/locale/ko/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/auth/locale/uk/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/auth/locale/uk/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/contenttypes/locale/hr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/contenttypes/locale/hr/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/flatpages/locale/da/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/flatpages/locale/da/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/flatpages/locale/hr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/flatpages/locale/hr/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/flatpages/locale/id/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/flatpages/locale/id/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/flatpages/locale/ko/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/flatpages/locale/ko/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/gis/db/backends/postgis/models.py" afterPath="$PROJECT_DIR$/lib/django/contrib/gis/db/backends/postgis/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/gis/db/models/query.py" afterPath="$PROJECT_DIR$/lib/django/contrib/gis/db/models/query.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/gis/gdal/geomtype.py" afterPath="$PROJECT_DIR$/lib/django/contrib/gis/gdal/geomtype.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/gis/geos/prototypes/geom.py" afterPath="$PROJECT_DIR$/lib/django/contrib/gis/geos/prototypes/geom.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/gis/geos/prototypes/prepared.py" afterPath="$PROJECT_DIR$/lib/django/contrib/gis/geos/prototypes/prepared.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/gis/locale/da/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/gis/locale/da/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/gis/maps/google/__init__.py" afterPath="$PROJECT_DIR$/lib/django/contrib/gis/maps/google/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/gis/maps/google/overlays.py" afterPath="$PROJECT_DIR$/lib/django/contrib/gis/maps/google/overlays.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/gis/serializers/geojson.py" afterPath="$PROJECT_DIR$/lib/django/contrib/gis/serializers/geojson.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/gis/sitemaps/kml.py" afterPath="$PROJECT_DIR$/lib/django/contrib/gis/sitemaps/kml.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/gis/templates/gis/openlayers.html" afterPath="$PROJECT_DIR$/lib/django/contrib/gis/templates/gis/openlayers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/humanize/locale/es_MX/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/humanize/locale/es_MX/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/postgres/fields/array.py" afterPath="$PROJECT_DIR$/lib/django/contrib/postgres/fields/array.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/postgres/locale/da/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/postgres/locale/da/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/postgres/locale/id/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/postgres/locale/id/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/postgres/locale/ko/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/postgres/locale/ko/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/da/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/da/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/es_MX/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/es_MX/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/hr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/hr/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/id/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/id/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/ko/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/ko/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/uk/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/redirects/locale/uk/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/sessions/backends/base.py" afterPath="$PROJECT_DIR$/lib/django/contrib/sessions/backends/base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/contrib/sites/locale/hr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/lib/django/contrib/sites/locale/hr/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/core/cache/backends/base.py" afterPath="$PROJECT_DIR$/lib/django/core/cache/backends/base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/core/management/__init__.py" afterPath="$PROJECT_DIR$/lib/django/core/management/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/core/management/commands/inspectdb.py" afterPath="$PROJECT_DIR$/lib/django/core/management/commands/inspectdb.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/core/management/commands/loaddata.py" afterPath="$PROJECT_DIR$/lib/django/core/management/commands/loaddata.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/core/management/templates.py" afterPath="$PROJECT_DIR$/lib/django/core/management/templates.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/backends/base/operations.py" afterPath="$PROJECT_DIR$/lib/django/db/backends/base/operations.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/backends/mysql/creation.py" afterPath="$PROJECT_DIR$/lib/django/db/backends/mysql/creation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/backends/oracle/compiler.py" afterPath="$PROJECT_DIR$/lib/django/db/backends/oracle/compiler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/backends/postgresql/creation.py" afterPath="$PROJECT_DIR$/lib/django/db/backends/postgresql/creation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/backends/postgresql/schema.py" afterPath="$PROJECT_DIR$/lib/django/db/backends/postgresql/schema.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/backends/sqlite3/operations.py" afterPath="$PROJECT_DIR$/lib/django/db/backends/sqlite3/operations.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/migrations/executor.py" afterPath="$PROJECT_DIR$/lib/django/db/migrations/executor.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/migrations/operations/models.py" afterPath="$PROJECT_DIR$/lib/django/db/migrations/operations/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/migrations/operations/special.py" afterPath="$PROJECT_DIR$/lib/django/db/migrations/operations/special.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/migrations/questioner.py" afterPath="$PROJECT_DIR$/lib/django/db/migrations/questioner.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/models/base.py" afterPath="$PROJECT_DIR$/lib/django/db/models/base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/models/expressions.py" afterPath="$PROJECT_DIR$/lib/django/db/models/expressions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/models/fields/files.py" afterPath="$PROJECT_DIR$/lib/django/db/models/fields/files.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/models/fields/related.py" afterPath="$PROJECT_DIR$/lib/django/db/models/fields/related.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/models/fields/related_lookups.py" afterPath="$PROJECT_DIR$/lib/django/db/models/fields/related_lookups.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/models/fields/subclassing.py" afterPath="$PROJECT_DIR$/lib/django/db/models/fields/subclassing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/models/sql/compiler.py" afterPath="$PROJECT_DIR$/lib/django/db/models/sql/compiler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/models/sql/query.py" afterPath="$PROJECT_DIR$/lib/django/db/models/sql/query.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/db/models/sql/subqueries.py" afterPath="$PROJECT_DIR$/lib/django/db/models/sql/subqueries.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/dispatch/dispatcher.py" afterPath="$PROJECT_DIR$/lib/django/dispatch/dispatcher.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/forms/fields.py" afterPath="$PROJECT_DIR$/lib/django/forms/fields.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/middleware/common.py" afterPath="$PROJECT_DIR$/lib/django/middleware/common.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/middleware/csrf.py" afterPath="$PROJECT_DIR$/lib/django/middleware/csrf.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/middleware/http.py" afterPath="$PROJECT_DIR$/lib/django/middleware/http.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/template/base.py" afterPath="$PROJECT_DIR$/lib/django/template/base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/template/defaultfilters.py" afterPath="$PROJECT_DIR$/lib/django/template/defaultfilters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/template/defaulttags.py" afterPath="$PROJECT_DIR$/lib/django/template/defaulttags.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/template/smartif.py" afterPath="$PROJECT_DIR$/lib/django/template/smartif.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/test/runner.py" afterPath="$PROJECT_DIR$/lib/django/test/runner.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/utils/functional.py" afterPath="$PROJECT_DIR$/lib/django/utils/functional.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/utils/http.py" afterPath="$PROJECT_DIR$/lib/django/utils/http.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/utils/translation/trans_real.py" afterPath="$PROJECT_DIR$/lib/django/utils/translation/trans_real.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/views/debug.py" afterPath="$PROJECT_DIR$/lib/django/views/debug.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/views/decorators/http.py" afterPath="$PROJECT_DIR$/lib/django/views/decorators/http.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/views/generic/detail.py" afterPath="$PROJECT_DIR$/lib/django/views/generic/detail.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/django/views/generic/edit.py" afterPath="$PROJECT_DIR$/lib/django/views/generic/edit.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysite/urls.py" afterPath="$PROJECT_DIR$/mysite/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/polls/templates/polls/detail.html" afterPath="$PROJECT_DIR$/polls/templates/polls/detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/polls/templates/polls/index.html" afterPath="$PROJECT_DIR$/polls/templates/polls/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/polls/urls.py" afterPath="$PROJECT_DIR$/polls/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/polls/views.py" afterPath="$PROJECT_DIR$/polls/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" afterPath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" afterPath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/core.js" afterPath="$PROJECT_DIR$/static/admin/js/core.js" />
+    </list>
     <ignored path="appengine-django-skeleton.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -14,10 +197,55 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/appengine-django-skeleton$appengine_django_skeleton.coverage" NAME="appengine-django-skeleton Coverage Results" MODIFIED="1456028110483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/appengine-django-skeleton$appengine_django_skeleton.coverage" NAME="appengine-django-skeleton Coverage Results" MODIFIED="1456454780089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - mydatabasename@173.194.230.197" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - mydatabasename@173.194.230.197" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="django_migrations" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - mydatabasename@173.194.230.197" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="django_content_type" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
@@ -31,44 +259,20 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.153846">
-              <caret line="70" column="5" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="143" column="0" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/polls/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.461538">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.23782235">
+              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
               <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/polls/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-              <folding>
-                <element signature="e#1#33#0" expanded="true" />
+                <element signature="e#0#54#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,7 +282,7 @@
         <entry file="file://$PROJECT_DIR$/polls/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -86,21 +290,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="detail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/polls/templates/polls/detail.html">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.8461537">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/polls/templates/polls/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15769945">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state vertical-scroll-proportion="-6.5384617">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/polls/static/polls/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -131,13 +345,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mysite/settings.py" />
-        <option value="$PROJECT_DIR$/polls/urls.py" />
-        <option value="$PROJECT_DIR$/polls/views.py" />
         <option value="$PROJECT_DIR$/polls/admin.py" />
-        <option value="$PROJECT_DIR$/mysite/urls.py" />
-        <option value="$PROJECT_DIR$/polls/templates/polls/index.html" />
         <option value="$PROJECT_DIR$/polls/templates/polls/detail.html" />
+        <option value="$PROJECT_DIR$/polls/templates/polls/results.html" />
+        <option value="$PROJECT_DIR$/polls/views.py" />
+        <option value="$PROJECT_DIR$/polls/urls.py" />
+        <option value="$PROJECT_DIR$/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/polls/templates/polls/index.html" />
+        <option value="$PROJECT_DIR$/mysite/urls.py" />
       </list>
     </option>
   </component>
@@ -150,7 +365,7 @@
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1296" />
-    <option name="height" value="786" />
+    <option name="height" value="1010" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -177,6 +392,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -241,18 +458,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appengine-django-skeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appengine-django-skeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="mysite" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="C:/Program Files/Google/google_appengine" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -530,8 +767,8 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
-        <env name="DJANGO_SETTINGS_MODULE" value="mysite.settings" />
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mysite.settings" />
       </envs>
       <option name="SDK_HOME" value="C:\Program Files\Python27\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -603,22 +840,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1765625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18497577" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890856" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24631268" sideWeight="0.503125" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17184035" sideWeight="0.50625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12831858" sideWeight="0.496875" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17633675" sideWeight="0.49375" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31858408" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890856" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="App Config Tool" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3064275" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -654,6 +891,68 @@
     <entry file="file://$PROJECT_DIR$/mysite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="5" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#1#33#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/templates/polls/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/templates/polls/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -671,7 +970,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,7 +985,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.8461537">
           <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -696,43 +993,60 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding>
-            <element signature="e#1#33#0" expanded="true" />
+            <element signature="e#1#33#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polls/views.py">
+    <entry file="file://$PROJECT_DIR$/polls/templates/polls/results.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.461538">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.153846">
-          <caret line="70" column="5" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.41582733">
+          <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/polls/templates/polls/detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8461537">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/af01ab86-b169-4252-923c-d1cfd8fee0ee/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/93f206b1/2544767e-450e-4b5c-bc17-02d7599ae13a/mydatabasename.django_content_type">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2544767e-450e-4b5c-bc17-02d7599ae13a/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="143" column="0" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -740,18 +1054,44 @@
     <entry file="file://$PROJECT_DIR$/polls/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/polls/static/polls/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/polls/templates/polls/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15769945">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23782235">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
