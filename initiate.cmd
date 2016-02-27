@@ -1,7 +1,5 @@
+pip install Django -t lib  --upgrade
+pip install mysqlclient --upgrade
 
-
-pip install -r requirements-vendor.txt -t lib
-
-pip install -r requirements-local.txt
 
 pause

@@ -1,16 +1,4 @@
-# Copyright 2015 Google Inc. All rights reserved.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
+
 
 """
 Django settings for mysite project.
@@ -27,7 +15,7 @@ https://docs.djangoproject.com/en/1.8/ref/settings/
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 import os
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) #cms check it
 
 
 # Quick-start development settings - unsuitable for production
@@ -39,19 +27,27 @@ SECRET_KEY = '-c&qt=71oi^e5s8(ene*$b89^#%*0xeve$x_trs91veok9#0h0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+
+#ADMINS = [('John', 'john@example.com'), ('Mary', 'mary@example.com')] #superuser
+
+#MANAGERS = [('John', 'john@example.com'), ('Mary', 'mary@example.com')]	#gets broken link emails etc
+
 ALLOWED_HOSTS = []
 
 
 # Application definition
 
+
 INSTALLED_APPS = (
-    'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
+    #'django.contrib.sites',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'polls',	#cms
+    'django.contrib.admin',
+    # 'django.contrib.admindocs', # Uncomment the next line to enable admin documentation:
+    'polls'
 )
 
 MIDDLEWARE_CLASSES = (
@@ -91,9 +87,8 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 # https://docs.djangoproject.com/en/1.8/ref/settings/#databases
 
 # [START db_setup]
-import os
 env = os.getenv('SERVER_SOFTWARE')
-if (env and env.startswith('Google App Engine/')):
+if env and env.startswith('Google App Engine/'):
     # Running on production App Engine, so use a Google Cloud SQL database.
     DATABASES = {
         'default': {
@@ -114,13 +109,15 @@ else:
             'PORT': '3306',
         }
     }
-# else:
-	# DATABASES = {
-		# 'default': {
-			# 'ENGINE': 'django.db.backends.sqlite3',
-			# 'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-		# }
-	# }
+'''
+else:	#sqlite3
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    }
+}
+'''
 # [END db_setup]
 
 # Internationalization
@@ -128,7 +125,7 @@ else:
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+#TIME_ZONE = 'UTC'
 
 USE_I18N = True
 
