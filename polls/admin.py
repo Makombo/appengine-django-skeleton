@@ -22,7 +22,7 @@ class QuestionAdmin(admin.ModelAdmin):
 
     search_fields = ['question_text']
 
-    #date_hierarchy = 'pub_date'
+    date_hierarchy = 'pub_date' #NOTE: Requires USE_TZ to be set to False in polls/settings.py ... Default is USE_TZ = True
 
 
 admin.site.register(Question, QuestionAdmin)
