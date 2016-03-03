@@ -1,1 +1,1 @@
-python ../manage.py dumpdata --output ../_testdata_delete/thedatadump.json
+python ../manage.py dumpdata --output ../_delete_thedatadump.json
